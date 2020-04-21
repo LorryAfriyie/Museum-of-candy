@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4188e303-2303-4cc5-8f61-6886ddbc8886" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZkUmxsDdwwoBMEqgC3Sc6CFfVb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Work &amp; Learning Material/IT/The Bootstrap 4 Bootcamp/1.1 Bootstrap_Bootcamp_Files.zip/FINALCourseFiles/Section_11_JS" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Museum of Candy/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4188e303-2303-4cc5-8f61-6886ddbc8886" name="Default Changelist" comment="" />
+      <created>1585382747493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585382747493</updated>
+      <workItem from="1585382748983" duration="132000" />
+      <workItem from="1585401132368" duration="605000" />
+      <workItem from="1585416653470" duration="603000" />
+      <workItem from="1586505113267" duration="667000" />
+      <workItem from="1586836515816" duration="277000" />
+      <workItem from="1586855052496" duration="125000" />
+      <workItem from="1586873036509" duration="694000" />
+      <workItem from="1587210089183" duration="112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1587210129270">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586855076680" />
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1587210129270" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587210087951">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586855057184" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1587210087951" />
+  </component>
+</project>
